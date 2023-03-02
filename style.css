@@ -1,0 +1,23 @@
+.liked {
+    background-color: rgba(204, 73, 176, 0.493);
+    
+
+}
+
+#image-preview {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  #image-preview img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    margin: 5px;
+  }
+
+
+  .degageretcentrercettemerdededraganddrop {
+    padding-top : 5rem;
+  }
